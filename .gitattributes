@@ -1,0 +1,5 @@
+# PowerShell 5.1 necesita CRLF (y el BOM que ya tienen los archivos)
+*.ps1 text eol=crlf
+*.vbs text eol=crlf
+*.iss text eol=crlf
+*.ico binary

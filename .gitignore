@@ -1,0 +1,8 @@
+# Salidas de build.ps1 (el instalador va en Releases)
+build/
+dist/
+*.log
+
+# Notas internas para Claude Code (tienen datos personales)
+CLAUDE.md
+.claude/
